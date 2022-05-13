@@ -3,7 +3,7 @@ class config:
     APP_ID = "1670268"
     API_HASH = "975be9db721d5cc1cd184b0b507889e4"
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    SUDO_USERS = "616663265" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "656117891206-p8f0dqkpagcmk6750dv0qa6mhv15ldbl.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "mRTD1yP9JUPgmt_WIpWiHvfi"
