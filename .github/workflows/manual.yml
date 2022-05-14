@@ -19,7 +19,7 @@ jobs:
           region: "us"
         env:
           HD_CONFIG_FILE_URL: ${{secrets.CONFIG_FILE_URL}}
-          HD_UPSTREAM_URL: "https://github.com/TgCatUB/catuserbot"
+          HD_UPSTREAM_URL: "https://github.com/kjeymax/GDUPLOAD_BOT2"
 
 
 
